@@ -4,14 +4,3 @@ $(document).ready(function() {
     $("#flavors").append("<li>" + flavor + "</li>");
   });
 });
-
-
-
-
-
-
-
-
-
-
-
